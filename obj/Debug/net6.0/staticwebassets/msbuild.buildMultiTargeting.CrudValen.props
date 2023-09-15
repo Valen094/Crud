@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CrudValen.props" />
+</Project>
